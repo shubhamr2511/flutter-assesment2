@@ -1,5 +1,5 @@
 # moviesapp
-
+![alt text](https://github.com/shubhamr2511/flutter-assesment2/blob/main/screenmoviesearch.png?raw=true)
 A new Flutter project.
 
 ## Getting Started
